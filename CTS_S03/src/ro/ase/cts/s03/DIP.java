@@ -1,3 +1,4 @@
+package ro.ase.cts.s03;
 public class DIP {
 }
 

@@ -1,3 +1,5 @@
+package ro.ase.cts.s03;
+
 import java.util.ArrayList;
 
 // Meaningful variable names
